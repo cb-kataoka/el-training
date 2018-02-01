@@ -170,6 +170,10 @@
 - 参考書籍：https://leanpub.com/everydayrailsrspec-jp
 - `Rubocop` , `Rails Best practices` を導入して、コミット前にチェックするようにしましょう。
 
+[Rails Best Practices](https://qiita.com/diskshima/items/a19273f14705bbdb3e14)
+
+[Rubocop](https://qiita.com/kitaro_tn/items/abb881c098b3df3f9871)
+
 ### ステップ9: Railsのi18nを使ってアプリの日本語部分を共通化しましょう
 
 - Railsのi18nの仕組みを利用して、日本語リソースの共通化をしましょう
